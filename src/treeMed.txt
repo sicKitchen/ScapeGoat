@@ -1,0 +1,34 @@
+BuildTree 0.71 256
+Insert  293
+Insert  2
+Insert  230
+Insert  8
+Insert  9
+Insert  266
+Insert  11
+Insert  12
+Insert  263
+Insert  584
+Insert  15
+Insert  16
+Insert  17
+Insert  18
+Insert  19
+Insert  20
+Insert  527
+Insert  530
+Insert  7
+Insert  59
+Insert  62
+Insert  65
+Insert  68
+Insert  71
+Insert  77
+Insert  332
+Insert  335
+Insert  338
+Insert  89
+Search  90
+Search  293
+Delete  2
+Done
