@@ -50,7 +50,7 @@ Explain how to run the automated tests for this system
 * Java
 
 ## Authors
-* **Spencer Kitchen** - spencer.kitchen@wsu.edu
+* **Spencer Kitchen** - sckitchen.dev@gmail.com - spencer.kitchen@wsu.edu
 
 ### Acknowledgments
 * [Scapegoat Trees: the original publication describing scapegoat trees](http://cglab.ca/~morin/teaching/5408/refs/gr93.pdf)
